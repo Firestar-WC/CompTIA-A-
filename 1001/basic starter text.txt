@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>CompTIA A+</title>
+    <link rel="stylesheet" href="CSS Styles/styles.css"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Signika&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <header class="toptitle">
+      <span class="headerspan1">
+        <h1>CompTIA Guide for Computer Basics</h1>
+      </span>
+      </header>
+        <nav>
+          <span class="spannav">
+            <div class="divinnav dropdown">
+              <button class="divinnav dropbtn">Mobile Devices</button>
+              <div class="dropdown-content">
+                <a href="chp1.html">Laptop Hardware and Components</a>
+                <a href="chp2.html">Install Laptop Display Components</a>
+                <a href="chp3.html">Laptop Features</a>
+                <a href="chp4.html">Types of Mobile Devices</a>
+                <a href="chp5.html">Mobile Device Accessories and Ports</a>
+                <a href="chp6.html">Mobile Device Networks and Apps</a>
+                <a href="chp7.html">Mobile Device Synchronization</a>
+              </div>
+            </div>
+            <div class="divinnav dropdown">
+              <button class="divinnav dropbtn">Networking</button>
+              <div class="dropdown-content ntw1">
+                <a href="#">Ports, Protocols, and Their Purposes</a>
+                <a href="#">Networking Hardware Devices</a>
+                <a href="#">SOHO Networks</a>
+                <a href="#">Wireless Networking Protocols</a>
+                <a href="#">Server Types</a>
+                <a href="#">IP Addressing</a>
+                <a href="#">Internet Connection Types</a>
+                <a href="#">Networking Tools</a>
+              </div>
+            </div>
+            <div class="divinnav dropdown">
+              <button class="divinnav dropbtn">Hardware</button>
+              <div class="dropdown-content hdw1">
+                <a href="#">Link 1</a>
+                <a href="#">Link 2</a>
+                <a href="#">Link 3</a>
+              </div>
+            </div>
+            <div class="divinnav dropdown">
+              <button class="divinnav dropbtn">Virtualization and Cloud Computing</button>
+              <div class="dropdown-content vcc1">
+                <a href="#">Link 1</a>
+                <a href="#">Link 2</a>
+                <a href="#">Link 3</a>
+              </div>
+            </div>
+            <div class="divinnav dropdown">
+              <button class="divinnav dropbtn">Hardware and Network Troubleshooting</button>
+              <div class="dropdown-content hdw2">
+                <a href="#">Link 1</a>
+                <a href="#">Link 2</a>
+                <a href="#">Link 3</a>
+              </div>
+            </div>
+          </span>
+        </nav>
+      <div class="bodydiv">
+        <div class="sidenavdiv">
+           <div class="linkdiv">
+             Laptop Hardware and Components
+             <ul>
+               <li>
+                 <a href="#intro">Introduction</a>
+               </li>
+               <li>
+                 <a href="#hdr">Hardware Device Replacement</a>
+               </li>
+               <li>
+                 <a href="#kb">Keyboard</a>
+               </li>
+               <li>
+                 <a href="#hddrive">Hard Drive</a>
+               </li>
+               <li>
+                 <a href="#hddrive2">Hard Drive Types and Sizes</a>
+               </li>
+               <li>
+                 <a href="#mem">Memory</a>
+               </li>
+               <li>
+                 <a href="#smartcd">Smart Card Reader</a>
+               </li>
+               <li>
+                 <a href="#opticdrives">Optical Drives and Wireless Cards</a>
+               </li>
+               <li>
+                 <a href="#c&vcards">Cellular and Video Cards, Mini PCIe</a>
+               </li>
+               <li>
+                 <a href="#othltparts">Other Laptop Parts</a>
+               </li>
+               </ul>
+           </div>
+          </div>
+          <div class="bodybodydiv">
+            <div class="textdiv">
+              put ur notes here xd
+              </div>
+          </div>
+        </div>
